@@ -26,7 +26,7 @@ text to image модель генерирует изображения по ка
 ## Обучение SD 1.5 
 
 #### Параметры
-**--instance_prompt="a photo of sks woman face"** токен на который мы хотим обучить персонажа 
+**--instance_prompt="a photo of sks man face"** токен на который мы хотим обучить персонажа 
 
 
 **--class_prompt="a photo of man face"** промт для регуляризации
