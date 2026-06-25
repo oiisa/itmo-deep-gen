@@ -11,14 +11,14 @@ text to image модель генерирует изображения по ка
 В качестве датасета я собрала 15 изображений Гены Букина, кропнула и заресайзила их до 256x256, постаралась подобрать разные ракурсы и кадры, датасет в папке dataset.
 
 <p>
-<img src="dataset/2.png" alt="example" width="200" />
-<img src="dataset/8.jpg" alt="example" width="200" />
-<img src="dataset/18.jpg" alt="example" width="200" />
+<img src="dataset/gena1.jpg" alt="example" width="200" />
+<img src="dataset/gena2.jpg" alt="example" width="200" />
+<img src="dataset/gena3.jpg" alt="example" width="200" />
 </p>
 <p>
-<img src="dataset/13.png" alt="example" width="200" />
-<img src="dataset/16.png" alt="example" width="200" />
-<img src="dataset/20.jpg" alt="example" width="200" />
+<img src="dataset/gena4.jpg" alt="example" width="200" />
+<img src="dataset/gena5.jpg" alt="example" width="200" />
+<img src="dataset/images.jpg" alt="example" width="200" />
 </p>
 Таблица 1. Пример изображений для обучения
 
