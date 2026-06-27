@@ -55,8 +55,8 @@ text to image модель генерирует изображения по ка
 
 Сравнивала unet и LoRA  с ранком 8, изображения, сгенерированные LoRA нравтяся мне чуть больше, на фото в лесу unet сгенерировала изображение с лицом другого мужчины.
 
-<img src="pics/unetvalora1.png" alt="example" width="600" />
-<img src="pics/unetvalora2.png" alt="example" width="600" />
+<img src="pics/unetvslora1.png" alt="example" width="600" />
+<img src="pics/unetvslora2.png" alt="example" width="600" />
 
 ## ControlNet
 
