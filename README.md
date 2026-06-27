@@ -48,13 +48,29 @@ MLE-оценка вероятностей каждого атрибута из s
 2) Первый подход + batchnorm + dropout
 3) Оставляем только 1 канал, conv, relu, maxpool
 
+Графики обучения:
+
+<img src="anomaly/anomaly_curve1.png" alt="example" width="200" />
+<img src="anomaly/anomaly_curve2.png" alt="example" width="200" />
+<img src="anomaly/anomaly_curve3.png" alt="example" width="200" />
+
+Реконструкции:
+
+<img src="anomaly/recon1.png" alt="example" width="200" />
+<img src="anomaly/recon2.png" alt="example" width="200" />
+<img src="anomaly/recon3.png" alt="example" width="200" />
+
+Метрики:
+
+<img src="anomaly/roc1.png" alt="example" width="200" />
+<img src="anomaly/roc2.png" alt="example" width="200" />
+<img src="anomaly/roc3.png" alt="example" width="200" />
+
 ###  Результаты
 
 |   Metric |Baseline  |Base+bn+do|One channel|
 | -------- | -------- | -------- | ----------|
 |   TPR    | 0.7984   | 0.7907   |  0.8062   |
 |   TNR    | 0.8196   | 0.8936   |  0.6128   |
-
-Графики обучения, метрики, примеры реконструкции внутри ноутбука
 
 
