@@ -19,6 +19,10 @@ Crossover в W+: слои 0–7 берём от оригинала (форма, 
 |--------|--------|--------|
 | ![](style1.png) | ![](style2.png) | ![](style3.png) |
 
+Результат:
+
+<img src="pics/style_transfer.png" alt="example" width="600" />
+
 ---
 
 ## 3. Expression Transfer
@@ -31,12 +35,23 @@ Crossover в W+: слои 0–7 берём от оригинала (форма, 
 | Age | 0.5 |
 | Pose | 0.4 |
 
+Результат:
+
+<img src="pics/expression_transfer.png" alt="example" width="600" />
+
 ---
 
 ## 4. Face Swap
 
 Оптимизирую W+ с двумя лоссами: ArcFace тянет к личности донора, LPIPS сохраняет позу и освещение атрибут-донора.
+
+Результат
+
+<img src="pics/face_swap.png" alt="example" width="600" />
+
 ---
+
+
 
 ## Вывод
 
