@@ -21,7 +21,7 @@ Crossover в W+: слои 0–7 берём от оригинала (форма, 
 
 Результат:
 
-<img src="pics/style_transfer.png" alt="example" width="600" />
+<img src="pics/style_transfet.png" alt="example" width="600" />
 
 ---
 
