@@ -48,7 +48,7 @@ $$\text{FID} = \|\mu_r - \mu_g\|^2 + \text{Tr}\!\left(\Sigma_r + \Sigma_g - 2\sq
 
 Итоговый FID - 61
 
-<img src="pics/gan1.png" alt="example" width="200" />
+<img src="pics/gan1.png" alt="example" width="1000" />
 
 ### Эксперимент 2 — baseline + lr scheduler + grad clipping
 
@@ -62,7 +62,7 @@ $$\text{FID} = \|\mu_r - \mu_g\|^2 + \text{Tr}\!\left(\Sigma_r + \Sigma_g - 2\sq
 
 Итоговый FID - 57
 
-<img src="pics/gan2.png" alt="example" width="200" />
+<img src="pics/gan2.png" alt="example" width="1000" />
 
 
 ### Эксперимент 3 — baseline + lr scheduler + grad clipping + MinibatchStdDev + EMA
@@ -77,7 +77,7 @@ $$\text{FID} = \|\mu_r - \mu_g\|^2 + \text{Tr}\!\left(\Sigma_r + \Sigma_g - 2\sq
 
 Итоговый FID - около 70
 
-<img src="pics/gan3.png" alt="example" width="200" />
+<img src="pics/gan3.png" alt="example" width="1000" />
 
 ---
 
